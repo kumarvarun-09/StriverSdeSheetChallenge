@@ -1,4 +1,5 @@
 #include <bits/stdc++.h> 
+
 vector<vector<int>> findTriplets(vector<int>arr, int n, int K) {
 	// Write your code here.
     sort(arr.begin(), arr.end());
